@@ -18,7 +18,7 @@ export default function Layout({ children }) {
     return (
         <>
             <Head>
-                <title>Discuss-OS Supabase</title>
+                <title>Foro JuanPiece</title>
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
@@ -38,7 +38,7 @@ export default function Layout({ children }) {
                                     <line x1="9.09985" y1="22.1805" x2="40.0716" y2="20.8585" stroke="black" />
                                 </svg>
 
-                                <h1 className='is-size-5 ml-1'>Discussbase</h1>
+                                <h1 className='is-size-5 ml-1'>Foro JuanPiece</h1>
                             </a>
                         </Link>
 
